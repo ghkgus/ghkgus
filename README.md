@@ -7,18 +7,20 @@
 
 <h4 align="left">🌱 Tech Stack</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="60"/>&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="25">
 </div>
 
 <h4 align="left">🛠️ Tools</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="60"/>&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" width="60"/>&nbsp
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25"/>&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </div>
+
 <div>
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" width="60"/>&nbsp
-  <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" width="60"/>&nbsp
-  <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" width="60"/>&nbsp
+  
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" height="25"/>&nbsp
 </div>
 
 <br>
