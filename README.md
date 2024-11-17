@@ -18,10 +18,21 @@
 
 <div>
   
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" height="25"/>  
+  &nbsp<img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" height="25"/>&nbsp
   <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" height="25"/>&nbsp
 </div>
+
+<br>
+
+<h4 align="left"> 📮 Contact </h4>
+<div align="left">
+   <a href="https://velog.io/@hwahyeon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hwahyeon"/ height="25"></a>&nbsp
+   <a href="mailto:ghkthd9@naver.com"><img src="http://img.shields.io/badge/-Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=ghkthd9@naver.com"/height="25"></a>
+
+</div>
+
+<br>
 
 <br>
 
